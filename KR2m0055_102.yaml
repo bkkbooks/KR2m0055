@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/102
+seq: 102
+front:
+  text: 欽定四庫全書大清律例卷四十三目録
+  hash: sha256:7f8ca07080174fd3c12ef5ab8e079c840e61704d74f72edefb73189f28ec40e1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_102-1a, image: WYG0673/WYG0673-0307a.png}
+body:
+  text: 總類雜犯流二千里二條雜犯流二千五百里二條雜犯流三千里八條實犯流二千里四十五條實犯流二千五百里十七條實犯流三千里一百八十二條
+  hash: sha256:ba6b17a71ca9a02bb5b9546cb6b5cf57522ce8b6fc70135c4e724d5daad4c0ab
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十三目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_102.txt
+hash: sha256:7182bfbb880535cd0271ae06a7c584a0a4ea305f4b2f2ef2467c88c3fb742acd

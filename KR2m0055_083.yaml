@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/83
+seq: 83
+front:
+  text: 欽定四庫全書大清律例卷三十四目録
+  hash: sha256:ba2a7755b3f850278a56a2ce965fe5201aeca2e3c73df71fd47c8bf3fb75431a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_083-1a, image: WYG0673/WYG0673-0085c.png}
+body:
+  text: 刑律雜犯拆毁申明亭夫匠軍士病給醫藥賭博閹割火者囑託公事私和公事失火放火故燒人房屋搬做雜劇違令不應為
+  hash: sha256:89d2fa008e4d46a4cba5d6e3e95cdb57226ee10e4fb9f6cc8c2db26dc512e03f
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十四目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_083.txt
+hash: sha256:23887309cabfa37337d17f6cc89fb70efdede053b441d512f6d413f0c43dccb9

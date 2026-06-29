@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/61
+seq: 61
+front:
+  text: 欽定四庫全書大清律例卷二十三目録
+  hash: sha256:13eb12f9527ce6c4e541240e3cbdcd7bb045953195d0e6bac8aa8650b4138329
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_061-1a, image: WYG0672/WYG0672-0707a.png}
+body:
+  text: 刑律賊盜上謀反大逆謀叛造妖書妖言盜大祀神御物盜制書盜印信盜內府財物盜城門鑰盜軍器盜園陵樹本監守自盜倉庫錢糧常人盜倉庫錢糧强盜
+  hash: sha256:616e6cb4136564883c5fbb697ce87b2b9c92c3fd8f42409c2b646ddfde68b57b
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十三目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_061.txt
+hash: sha256:50056ae706a31981acbb420e2ea7a06a63086d8fab4449fbb2658f39b8f8d070

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/59
+seq: 59
+front:
+  text: 欽定四庫全書大清律例卷二十二目錄
+  hash: sha256:a3f6fb98cc4c68ea4a125ee511fa1ce1f2fda41a0d5cdc894c9b2a1192c03376
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_059-1a, image: WYG0672/WYG0672-0693a.png}
+body:
+  text: 兵律郵驛遞送公文邀取實封公文乘官畜産車船附私物鋪舍損壞私役鋪兵驛使稽程多乘驛馬多支廩給文書應給驛而不給公事應行稽程占宿驛舍上房乘驛馬齎私物私役民夫擡轎病故官家屬還鄉承差轉雇寄人私借驛馬
+  hash: sha256:a18da7210853392f34e6748f9f72b00052143f248c8f6a3b484c260d639526f9
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十二目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_059.txt
+hash: sha256:6b7447e8face7e0d18a3a97415dcd3c518ab1cca06bc42a34c1977e87338087c

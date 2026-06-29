@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/81
+seq: 81
+front:
+  text: 欽定四庫全書大清律例卷三十三目録
+  hash: sha256:2020d0c88184988ad338902baf85bd9ab173bbf83320b18ee4db42570a5a300a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_081-1a, image: WYG0673/WYG0673-0077a.png}
+body:
+  text: 刑律犯姦犯姦縱容妻妾犯姦親屬相姦誣執翁姦奴及雇工人姦家長妻姦部民妻女居喪及僧道犯姦良賤相姦官吏宿娼買良為娼
+  hash: sha256:f1ed053daac3b2939ba6d255de0632a30a286e707aef926a6748e6a4e33c8d7e
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十三目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_081.txt
+hash: sha256:e292cdf1bec33923b80ac648227df5a47d0d47c3e90efb3490e5488956943b43

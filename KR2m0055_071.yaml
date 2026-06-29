@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/71
+seq: 71
+front:
+  text: 欽定四庫全書大清律例卷二十八目録
+  hash: sha256:a628c3c9e4c23bee97e5d36686de5c996905754f4463385c4c3e58f0234cad60
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_071-1a, image: WYG0673/WYG0673-0013c.png}
+body:
+  text: 刑律鬬毆下奴婢毆家長妻妾毆夫同姓親屬相毆毆大功以下尊長毆期親尊長毆祖父母父母妻妾與夫親屬相毆毆妻前夫之子妻妾毆故夫父母父祖被毆
+  hash: sha256:095ec3f6c70b4476f66086d9f147d3576f11655e2a0a39064048066693363539
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十八目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_071.txt
+hash: sha256:652159d86972f8576f4cd6266635c2d8f73a72aba9e50ef47b185a9c2b619e14

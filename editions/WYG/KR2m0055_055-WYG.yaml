@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/55
+seq: 55
+front:
+  text: 欽定四庫全書大清律例卷二十目録
+  hash: sha256:f827fdc3db9bc7bda4c3404c13fa49281aa08d6fea7c5d993d9862a4bcc05ce0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_055-1a, image: WYG0672/WYG0672-0669c.png}
+body:
+  text: 兵律闗津私越冒度闗津私役弓兵詐冒給路引闗津留難遞送逃軍妻女出城盤詰姦細私出外境及違禁下海
+  hash: sha256:ee1e7d9a0d6e2c8a051229c17b20e2cc6b41762f3daafc9da8a4f2dd84afbe3a
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_055.txt
+hash: sha256:0ec6ef33e29f94056046817d831cc3355ddf2bbbb52150cd11f99bbf888551b8

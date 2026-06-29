@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/67
+seq: 67
+front:
+  text: 欽定四庫全書大清律例卷二十六目録
+  hash: sha256:2bc32ba476d92b771bd2551cefd2e8ba39c1fe4d4548d152b196ad4f0ebb842f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_067-1a, image: WYG0672/WYG0672-0766c.png}
+body:
+  text: 刑律人命謀殺人謀殺制使及本管長官謀殺祖父母父母殺死姦夫謀殺故夫父母殺一家三人採生折割人造畜蠱毒殺人鬬毆及故殺人屏去人服食戲殺誤殺過失殺傷人夫毆死有罪妻妾殺子孫及奴婢圖賴人弓箭傷人車馬殺傷人庸醫殺傷人窩弓殺傷人威逼人致死尊長為人殺私和同行知有謀害
+  hash: sha256:7fbffa4cf049866c3088a81816c1932e1cc73a768779bdbe598ea1914dc7090e
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十六目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_067.txt
+hash: sha256:ffb9c3ecaa64d3d7bb2981793b9158f2d23571d4677c665b19ad0d9d84385ba5

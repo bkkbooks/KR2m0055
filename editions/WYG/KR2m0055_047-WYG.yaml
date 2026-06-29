@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/47
+seq: 47
+front:
+  text: 欽定四庫全書大清律例卷十六目錄
+  hash: sha256:5be78c95cad63f374dd60116dc357f07c0e625d31c8948ba258f5f5d9b74802f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_047-1a, image: WYG0672/WYG0672-0617a.png}
+body:
+  text: 禮律祭祀祭享毁大祀邱壇致祭祀典神祗歴代帝王陵寢褻瀆神明禁止師巫邪術
+  hash: sha256:7f4fe164bb5688111d5d1cf07d52042718f55c1a6639c5fbe5f3830826c91815
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十六目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_047.txt
+hash: sha256:78a115505001a5411d33f2057704c4aca33dbf2a58ae8b3bbed4ce5e6542583f

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/108
+seq: 108
+front:
+  text: 欽定四庫全書大清律例卷四十六目録
+  hash: sha256:36e1e48508afc3c0bcb02e493a20ed40a080eb2b789fb0b3ea52ad05e131ef62
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_108-1a, image: WYG0673/WYG0673-0358a.png}
+body:
+  text: 總類雜犯絞罪六條雜犯斬罪八條監候絞一百八十條監候斬一百五十九條立絞四十三條立斬一百三十五條凌遲處死十七條
+  hash: sha256:917288267a0dd5da68f1efe88a599663b0a3f75b866c766664f4e34a3bc43950
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十六目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_108.txt
+hash: sha256:706a6aa5b21bcefed949769d4cc5f42b362d159c4251c9b7b57f12be55ae9db1

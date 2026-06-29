@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/106
+seq: 106
+front:
+  text: 欽定四庫全書大清律例卷四十五目録
+  hash: sha256:38a9538daff1e23f3397b80b0942620a3309c09dcc2b5d970c9edec858e10e57
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_106-1a, image: WYG0673/WYG0673-0334c.png}
+body:
+  text: 總類邊外為民十三條烟瘴為民一條充軍四條附近充軍四十條近邊充軍一百十條邊逺充軍六十三條極邊充軍四條烟瘴充軍二十八條極邊烟瘴充軍二十三條
+  hash: sha256:665ed44fff0b83e3d854a2878e5709af36be71a9e05bb69422208f910419c4f2
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十五目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_106.txt
+hash: sha256:fdd3f19f087806f0d1d7b368676bd7cc71da4afb5cb1c9b6a25e805562f377cb

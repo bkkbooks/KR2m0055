@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/65
+seq: 65
+front:
+  text: 欽定四庫全書大清律例卷二十五目録
+  hash: sha256:5aa3d24b1e47912c61971a9ae9e9faedefec7c4d8ba3dbc37a511891f0f71e4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_065-1a, image: WYG0672/WYG0672-0746a.png}
+body:
+  text: 刑律賊盜下親屬相盜恐嚇取財詐欺官私取財略人略賣人發塜夜無故入人家盜賊窩主共謀為盜公取竊取皆為盜起除刺字
+  hash: sha256:4eb7ed7ed667999446c997e70d4c895424183fd48daf65c0de8cb4fac857cd6d
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十五目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_065.txt
+hash: sha256:dd3136ad43697583fe95ef7bfdd377d19978e0062db8ccae84c853b5a25a801b

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/110
+seq: 110
+front:
+  text: 欽定四庫全書大清律例卷四十七目錄
+  hash: sha256:c6fd34c7b5cfefb3890669aed995d3d1914a46821758d20357199fe6c0f50926
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_110-1a, image: WYG0673/WYG0673-0396a.png}
+body:
+  text: 總類比引律條三十條
+  hash: sha256:aa6f5b68db0a401e90374248c7178e9886990a6ce8151accd19bb2ee056c3afe
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十七目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_110.txt
+hash: sha256:ad19b9138f109156bb4bc80d40b79fc033353866e7071915fa5979962b3c1258

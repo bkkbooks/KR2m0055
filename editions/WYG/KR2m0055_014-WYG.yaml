@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臣劉統勲等謹奏為奏聞事竊臣部纂修全部律例前經奏明分為三次進呈所有名例吏律户律禮律兵律並刑律賊盜人命鬭毆共十二卷已於本年五月初六日及六月初九日具摺進呈御覽均蒙欽定今將第三次纂修刑律訴訟受贓詐偽犯姦雜犯捕亡斷獄工律共八卷督捕則例一卷併毋庸纂輯條例一卷謹繕黄冊進呈御覽恭候欽定俟命下之日臣館將此次及前兩次纂修條例另繕清漢樣冊進呈照例送交武英殿刊刻臣館一面先行刊刻草本通行各省督撫將軍一體遵行為此謹奏請㫖乾隆三十二年七月初六日奏初七日奉㫖知道了欽此
+  hash: sha256:977a2dd0d40bef1134d653816a6602215b25518c1a3c8a50d5345129a719616d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_014-1a, image: WYG0672/WYG0672-0392c.png}
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 奏摺十
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_014.txt
+hash: sha256:fa1f4971f25f70a0eea693818f75df88967434b6843413a60214778e467872c2

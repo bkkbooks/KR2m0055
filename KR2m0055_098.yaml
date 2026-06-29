@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/98
+seq: 98
+front:
+  text: 欽定四庫全書大清律例卷四十一目録
+  hash: sha256:df06825d45ccee4ed45470a53d0e6539e3503949c3402f1d34be552b0bf717f0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_098-1a, image: WYG0673/WYG0673-0211a.png}
+body:
+  text: 總類杖六十一百十六條杖七十六十九條杖八十二百十六條杖九十七十一條杖一百三百七十一條
+  hash: sha256:7dd99bcf99975241d40ce9376e03a110a20966db0d3ad10b72ba1440afe6c4e6
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十一目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_098.txt
+hash: sha256:86f55bd2af34788b467cbf4e8360904787fb78e9f11dd760f45f36e81e2d1dd5

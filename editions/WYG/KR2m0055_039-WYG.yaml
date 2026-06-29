@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/39
+seq: 39
+front:
+  text: 欽定四庫全書大清律例卷十二目録
+  hash: sha256:2fc48c8a9df9219654de73b2ab6583078d2dac2e87acf7c922eae40b6fd61236
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_039-1a, image: WYG0672/WYG0672-0576c.png}
+body:
+  text: 戸律倉庫下那移出納庫秤雇役侵欺冒支官糧錢糧互相覺察倉庫不覺被盜守支錢糧及擅開官封出納官物有違收支留難起解金銀足色損壊倉庫財物轉解官物擬斷贓罰不當守掌在官財物隱瞞入官家産
+  hash: sha256:42c16c4ce9a4ca82b093b3265ba1cf6c200beefbafab9119b543cff3ded7efcc
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十二目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_039.txt
+hash: sha256:1b1eb78320d139e45a154d71dc2fd7f6c77c6131d373c9d79ce138d01ff37949

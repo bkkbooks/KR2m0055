@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/93
+seq: 93
+front:
+  text: 欽定四庫全書大清律例卷三十九目録
+  hash: sha256:e2533760a8e7a40ea185d67c2567343fbfbd7efb4236e62d86046f845e1590fd
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_093-1a, image: WYG0673/WYG0673-0178a.png}
+body:
+  text: 工律河防盜決河防失時不修隄防侵占街道修理橋梁道路
+  hash: sha256:c2e959a0525b029789ccd9fdcff9f3a93ab8ac3e1cab401b4103892f1bdb643f
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十九目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_093.txt
+hash: sha256:bcb1996cbaadfe31f87cba8de528bb9f549827eb141b96a4f4127dc2e16d92b0

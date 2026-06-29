@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/43
+seq: 43
+front:
+  text: 欽定四庫全書大清律例卷十四目録
+  hash: sha256:368ed1b88571db416e02bd04269fbdc4f1b7ce2a53344415d6e510bf42fb6876
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_043-1a, image: WYG0672/WYG0672-0607a.png}
+body:
+  text: 戸律錢債違禁取利費用受寄財産得遺失物
+  hash: sha256:f57164b84f4e6513fa0cacc91ea9202ce976d1c033ab2795effe27d286c3cffd
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十四目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_043.txt
+hash: sha256:8631c218f86f2f8fff691526701325c878a63590c8e2dce6334dab53d5dcb4b8

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/61
+seq: 61
+front:
+  text: 欽定四庫全書大清律例卷二十三目錄
+  hash: sha256:68f9bc86e4580fd02ba157bf4abcad631756224fe5b012051c07c02b3bcf68fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_061-1a, image: WYG0672/WYG0672-0707a.png}
+body:
+  text: 刑律賊盜上謀反大逆謀叛造妖書妖言盜大祀神御物盜制書盜印信盜内府財物盜城門鑰盜軍器盜園陵樹本監守自盜倉庫錢糧常人盜倉庫錢糧强盜
+  hash: sha256:9c78c6edd3c87ef5c87e4f1cace5fb15c07720f730d5c55040c16aed77b2fa78
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十三目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_061.txt
+hash: sha256:db2d80440c9d606ccca55fa0e67a371b4a2175485c2c6aef95ef6695d5ba2ad5

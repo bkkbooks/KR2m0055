@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR2m0055/bkk/v1/markers/41
+seq: 41
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0055_WYG_041-1a01}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR2m0055_WYG_041-1a02}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0055_WYG_041-1a03}
+  - {type: indent, offset: 0, content: 　, id: KR2m0055_krp_041-bkkind1}
+  - {type: substitution, offset: 0, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4495}}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR2m0055_WYG_041-1a04}
+  - {type: indent, offset: 2, content: 　　, id: KR2m0055_krp_041-bkkind2}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl3}
+  - {type: line-break, offset: 4, content: '', id: KR2m0055_WYG_041-1a05}
+  - {type: indent, offset: 4, content: 　　　, id: KR2m0055_krp_041-bkkind3}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl4}
+  - {type: line-break, offset: 6, content: '', id: KR2m0055_WYG_041-1a06}
+  - {type: indent, offset: 6, content: 　　　, id: KR2m0055_krp_041-bkkind4}
+  - {type: 'kr:newline', offset: 12, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl5}
+  - {type: line-break, offset: 12, content: '', id: KR2m0055_WYG_041-1a07}
+  - {type: indent, offset: 12, content: 　　　, id: KR2m0055_krp_041-bkkind5}
+  - {type: substitution, offset: 13, original: 壊, replacement: 壞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4343}}
+  - {type: 'kr:newline', offset: 16, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl6}
+  - {type: line-break, offset: 16, content: '', id: KR2m0055_WYG_041-1a08}
+  - {type: indent, offset: 16, content: 　　　, id: KR2m0055_krp_041-bkkind6}
+  - {type: 'kr:newline', offset: 18, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl7}
+  - {type: page-break, offset: 18, content: '', id: KR2m0055_WYG_041-1b, image: WYG0672/WYG0672-0594d.png}
+  - {type: 'kr:newline', offset: 18, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl8}
+  - {type: line-break, offset: 18, content: '', id: KR2m0055_WYG_041-1b01}
+  - {type: indent, offset: 18, content: 　　　, id: KR2m0055_krp_041-bkkind7}
+  - {type: 'kr:newline', offset: 20, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl9}
+  - {type: line-break, offset: 20, content: '', id: KR2m0055_WYG_041-1b02}
+  - {type: indent, offset: 20, content: 　　　, id: KR2m0055_krp_041-bkkind8}
+  - {type: substitution, offset: 21, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4522}}
+  - {type: 'kr:newline', offset: 22, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl10}
+  - {type: line-break, offset: 22, content: '', id: KR2m0055_WYG_041-1b03}
+  - {type: indent, offset: 22, content: 　　　, id: KR2m0055_krp_041-bkkind9}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl11}
+  - {type: line-break, offset: 26, content: '', id: KR2m0055_WYG_041-1b04}
+  - {type: indent, offset: 26, content: 　　　, id: KR2m0055_krp_041-bkkind10}
+  - {type: substitution, offset: 27, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4495}}
+  - {type: 'kr:newline', offset: 32, content: '
+
+      ', id: KR2m0055_krp_041-bkkkrnewl12}
+  back: []
+hash: sha256:fecac8869e7c21e883f9afaa8f6b6a4a31a42fc0437cb193636db39d263b32f8

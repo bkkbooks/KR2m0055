@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/91
+seq: 91
+front:
+  text: 欽定四庫全書大清律例卷三十八目録
+  hash: sha256:278b3cac704e9d983497978f8b247082864c492abd5f298f27e87194065fa264
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_091-1a, image: WYG0673/WYG0673-0167c.png}
+body:
+  text: 工律營造擅造作虛費工力採取不堪用造作不如法冒破物料帶造段匹織造違禁龍鳳文段匹造作過限修理倉庫有司官吏不住公廨
+  hash: sha256:52eeb8142a2a73be431bdee8e0efc41ce7cd57ddd7e48e2bea25aa19317b39af
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十八目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_091.txt
+hash: sha256:b047fdc9e2dcf884e204b77422ae03d2618a25d448bf8e1222559046c5ff5c45

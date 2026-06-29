@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/69
+seq: 69
+front:
+  text: 欽定四庫全書大清律例卷二十七目録
+  hash: sha256:41d5243583c8acf77f1566feaf889fd983be66737059b73fc500ebc560e6b132
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_069-1a, image: WYG0672/WYG0672-0790a.png}
+body:
+  text: 刑律鬬毆上鬬毆保辜限期宫内忿争宗室覺羅以上親被毆毆制使及本管長官佐職統屬毆長官上司官與統屬官相毆九品以上官毆長官拒毆追攝人毆受業師威力制縳人良賤柏毆
+  hash: sha256:0578469101427984e482512a538d5585b15a86e09011abaf7bb188a5b610b5a7
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十七目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_069.txt
+hash: sha256:e2c41ba7a312820deadcc61bd4a6eb170df60ee01a81acd1d44c133a4b200d63

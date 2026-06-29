@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/77
+seq: 77
+front:
+  text: 欽定四庫全書大清律例卷三十一目錄
+  hash: sha256:a79fbc9a1d17fcff5b2e82772a01ee4b7d3f10736de87ecac2309ac3aa1c6efa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_077-1a, image: WYG0673/WYG0673-0052a.png}
+body:
+  text: 刑律受贓官吏受財坐贓致罪事後受財官吏聴許財物有事以財請求在官求索借貸人財物家人求索風憲官吏犯贓因公科歛尅留盜贓私受公侯財物
+  hash: sha256:d2e8d0577c60eea6cc8106300dfd2489bdf5514c088f1a00dc4d027d16b55c81
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十一目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_077.txt
+hash: sha256:accaf6133e109b349569e2f1c5c9021fa0ca1c4055824af94e55e060b01da76a

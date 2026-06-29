@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/75
+seq: 75
+front:
+  text: 欽定四庫全書大清律例卷三十目録
+  hash: sha256:5cf4edb8e02413646033610329b5c8c35916290efcbf85cf96425f89f24af4fc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_075-1a, image: WYG0673/WYG0673-0032a.png}
+body:
+  text: 刑律訴訟越訴投匿名文書告人罪告狀不受理聽訟回避誣告干名犯義子孫違犯教令見禁囚不得告舉他事教唆詞訟軍民約㑹詞訟官吏詞訟家人訴誣告充軍及遷徙
+  hash: sha256:6822a8a5cce8b2612675277865d0da2d81e57d0869393e65e85bbca0e6d9186b
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_075.txt
+hash: sha256:0431815dcb2052f22b852b837a957fb14424e1affb84a5e9c52c69284183f779

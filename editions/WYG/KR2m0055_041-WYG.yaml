@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/41
+seq: 41
+front:
+  text: 欽定四庫全書大清律例卷十三目録
+  hash: sha256:98b7094abde8d590e111932685b4c54214f5b447b3196e94948b699a52084b19
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_041-1a, image: WYG0672/WYG0672-0594c.png}
+body:
+  text: 戸律課程鹽法監臨勢要中鹽阻壊鹽法私茶私礬匿税舶商匿貨人戸虧兌課程
+  hash: sha256:96ac753c39d3944689d6183e131e4c1a2036efef79f85c5f44bb7207e72b27cd
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十三目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_041.txt
+hash: sha256:733309941b724937f0f117944fbc1d34264b4aefd4fc5a8d5b952de5e286e415

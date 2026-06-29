@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/53
+seq: 53
+front:
+  text: 欽定四庫全書大清律例卷十九目錄
+  hash: sha256:9ce5f6013012ffebcb8a5228e80a38277a7158f0e94d797fde9ea861c9a1ba15
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_053-1a, image: WYG0672/WYG0672-0651a.png}
+body:
+  text: 兵律軍政擅調官軍申報軍務飛報軍情漏泄軍情大事邊境申索軍需失誤軍事從征違期軍人替役主將不固守縱軍擄掠不操練軍士激變良民私賣戰馬私賣軍器毁棄軍器私藏應禁軍器縱放軍人歇役公侯私役官軍從征守禦官軍逃優恤軍屬夜禁
+  hash: sha256:621cec07e1a67c53db765d410b971dbe56a6140f5044f81af0eae5ec5f9b112c
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十九目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_053.txt
+hash: sha256:bc868208bfdf3f844945232426446eb0911847a195671220c8abec7a63a09dd7

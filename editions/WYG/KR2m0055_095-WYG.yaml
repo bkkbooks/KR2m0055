@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/95
+seq: 95
+front:
+  text: 欽定四庫全書大清律例
+  hash: sha256:0c6a1e6ca7a3584b48c77eb2304ae36d888cf151eac2b61bd991ac9a8760345b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_095-1a, image: WYG0673/WYG0673-0182a.png}
+body:
+  text: 總類卷四十笞五等卷四十一杖五等卷四十二徒五等遷徙卷四十三雜犯流三等實犯流三等卷四十四發配卷四十五編發為民分發充軍卷四十六雜犯絞雜犯斬監候絞監候斬立絞立斬凌遲處死卷四十七比引律條
+  hash: sha256:ff64760a5c3138e980b5c8ba9bdfac44061c33abfb807be21444e0eb7e1f3d38
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 總類目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_095.txt
+hash: sha256:5c0a4521114f83202d513ef5f6ca1fb4ad25da6244803ed90a432229b29b9852

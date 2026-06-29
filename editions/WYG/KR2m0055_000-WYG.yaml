@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/0
+seq: 0
+front:
+  text: 世祖章皇帝御製大清律原序
+  hash: sha256:1b5c321d01002f44e8266ddd8ea22c39fcb8f588e1981f2b29c2458ff78e74a6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_000-1a, image: WYG0672/WYG0672-0377a.png}
+body:
+  text: 朕惟太祖太宗創業東方民淳法簡大辟之外惟有鞭笞朕仰荷天休撫臨中夏人民既衆情偽多端每遇奏讞輕重出入頗煩擬議律例未定有司無所稟承爰敕法司官廣集廷議詳譯明律叅以國制増損劑量期於平允書成奏進朕再三覆閲仍命内院諸臣校訂妥確乃允刋布名曰大清律集解附例爾内外有司官吏敬此成憲勿得任意低昂務使百官萬民畏名義而重犯法冀幾刑措之風以昭我祖宗好生之徳子孫臣民其世世守之順治三年五月
+  hash: sha256:1f4f1a61674846e3f70340929397a0aed843f08d07a51dded382c5db88abb00f
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 世祖章皇帝御製大清律原序
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_000.txt
+hash: sha256:f4b7f668c1d000cc1ccd506226aa4b24e14fb73bb564d4285c6af7ee085183f8

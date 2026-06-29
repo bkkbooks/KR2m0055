@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/1
+seq: 1
+front:
+  text: 聖祖仁皇帝上諭
+  hash: sha256:906928ba30150580deb3fb7c36c6caa5f9ec7cb3d419f1b7fb43f0780ece75e5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_001-1a, image: WYG0672/WYG0672-0378a.png}
+body:
+  text: 康熙十八年九月十四日奉上諭國家設立法制原以禁暴止姦安全良善故律例繁簡因時制宜總期合於古帝王欽恤民命之意向因人心滋偽輕視法網及强暴之徒陵虐小民故於定律之外復設條例俾其畏而知警免罹刑辟乃近來犯法者多而姦偽未見衰止人命闗係重大朕心深用惻然其定律之外所有條例如罪不至死而新例議死或情罪原輕而新例過嚴者應去應存著九卿詹事科道㑹同詳加酌定確議具奏特諭
+  hash: sha256:4568482069009d73f8e204c858b4fbcd76e4094b3352c15fe58128fc6fb58ce4
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 聖祖仁皇帝上諭
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_001.txt
+hash: sha256:9d231c51d3c18a6543c1024863e02a1f0ab95b04f1ab37271084cb8e5f0abd8d

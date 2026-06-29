@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/57
+seq: 57
+front:
+  text: 欽定四庫全書大清律例卷二十一目錄
+  hash: sha256:ccfd843dc511a9df3671bdbfb5628f03dea12d02dbd9bf3d9f4819a916bfdc00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_057-1a, image: WYG0672/WYG0672-0685a.png}
+body:
+  text: 兵律廐牧牧養畜産不如法孳生馬匹驗畜産不以實養療瘦病畜産不如法乘官畜脊破領穿官馬不調習宰殺馬牛畜産咬踢人隱匿孳生官畜産私借官畜産公使人等索借馬匹
+  hash: sha256:35359ec329da48fe529f15734cef15eb81dc7fa6b72002e7f00d8c2d60f24009
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十一目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_057.txt
+hash: sha256:0f1b5bb50660997677b30ad4086c5de48102d71a6b99870e5615cfb356b5b81c

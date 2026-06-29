@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/87
+seq: 87
+front:
+  text: 欽定四庫全書大清律例卷三十六目録
+  hash: sha256:e8c05b306a22adb6cb171615e9097ba0d4057f6524b1f06fd88898ed7f25a507
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_087-1a, image: WYG0673/WYG0673-0120c.png}
+body:
+  text: 刑律斷獄上囚應禁而不禁故禁故勘平人淹禁陵虐罪囚與囚金刃解脫主守教囚反異獄囚衣糧功臣應禁親人入視死囚令人自殺老幼不拷訊鞫獄停囚待對依告狀鞫獄原告人事畢不放回獄囚誣指平人
+  hash: sha256:07db9a56614a7c5885d135233522300dbddd0b00e22f75ca2a1bcb3b10518ef0
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_087.txt
+hash: sha256:623d1d5ea53896981ec429ebd521d12c8e24d0037d4a866865c33373de2fbfdf

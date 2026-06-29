@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/25
+seq: 25
+front:
+  text: 欽定四庫全書大清律例卷五目錄
+  hash: sha256:2bcfc8fb19eb6cc1331b0f596084c07ea45d9c60ef24138281bcbbc0efe0d2b6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_025-1a, image: WYG0672/WYG0672-0460a.png}
+body:
+  text: 名例律下老小廢疾收贖犯罪時未老疾給没贓物犯罪自首二罪俱發以重論犯罪共逃同僚犯公罪公事失錯共犯罪分首從犯罪事發在逃親屬相為容隠處决叛軍化外人有犯本條别有罪名加減罪例稱乘輿車駕稱期親祖父母稱與同罪稱監臨主守稱日者以百刻稱道士女冠斷罪依新頒律斷罪無正條徒流遷徙地方充軍地方
+  hash: sha256:0d5dce076f4c644d923629df69b7648da29ed8f77b481c605f9cc46019216227
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷五目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_025.txt
+hash: sha256:4b016f74ef8fb8dd7f2bf0ef6ae56ecf64e349871c96ae3e1b48fe333de8861c

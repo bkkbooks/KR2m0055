@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/45
+seq: 45
+front:
+  text: 欽定四庫全書大清律例卷十五目録
+  hash: sha256:df334937d2159a5513d16f05ae187a3f5c938591156e42fe0198c0a6a4a4d5e8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_045-1a, image: WYG0672/WYG0672-0611c.png}
+body:
+  text: 戸律市㕓私充牙行埠頭市司評物價把持行市私造斛斗秤尺器用布絹不如法
+  hash: sha256:6640297214968c329554fba91776aaa207321c7a065b8a83a2feefe676bba7ac
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十五目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_045.txt
+hash: sha256:6278d3bd27cd26c62d18fccd3ec2cf35874e4d4dbcd90aa61a3dc5b96fe37a5a

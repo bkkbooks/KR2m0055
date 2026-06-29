@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/79
+seq: 79
+front:
+  text: 欽定四庫全書大清律例卷三十二目録
+  hash: sha256:9cd5fbc80216854be1680b43847d4578b26d0d57e0a1efb8b21e402dc445ce8d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_079-1a, image: WYG0673/WYG0673-0064a.png}
+body:
+  text: 刑律詐僞詐為制書詐傳詔㫖對制上書詐不以實僞造印信時憲書等私鑄銅錢詐假官詐稱內使等官近侍詐稱私行詐為瑞應詐病死傷避事詐教誘人犯法
+  hash: sha256:b30abd98effeab14893be4413d74e673221844909a13f51729763dad365fe9d7
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十二目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_079.txt
+hash: sha256:a57c933731dffabb9f8e0244d8681ef1e24aada767faadddda5f33aa9d0c9251

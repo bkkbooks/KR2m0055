@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/100
+seq: 100
+front:
+  text: 欽定四庫全書大清律例卷四十二目録
+  hash: sha256:16327b28d14014c0ba8df6e61f88b07cfc875529b9846f114242315973bd2690
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_100-1a, image: WYG0673/WYG0673-0272a.png}
+body:
+  text: 總類徒一年六十二條徒一年半四十七條徒二年五十七條徒二年半六十八條徒三年二百七條遷徒六條
+  hash: sha256:736d430602a7918a7bf5d96e06c497af081fb3e241f025046aa8ef9e16629a36
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十二目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_100.txt
+hash: sha256:6b141bb5f9b323740a1a4f4d17833bac9cf522fab6c24995821769b268e409b1

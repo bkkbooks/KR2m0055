@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/85
+seq: 85
+front:
+  text: 欽定四庫全書大清律例卷三十五目錄
+  hash: sha256:8480f584dba095204e1df6664e12b177ab17573ee78edee9ac8cfa319f98021d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_085-1a, image: WYG0673/WYG0673-0096c.png}
+body:
+  text: 刑律捕亡應捕人追捕罪人罪人拒捕獄囚脱監及反獄在逃徒流人逃稽留囚徒主守不覺失囚知情藏匿罪人盗賊捕限
+  hash: sha256:51a188adb7eeae0fb2a34947b01b4a328e85ce07e82a3b9830c1f3df694debf7
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十五目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_085.txt
+hash: sha256:c12fd83a0ce50bd0aafda028192fd633989980e31292ae3dcb2e442524e659b5

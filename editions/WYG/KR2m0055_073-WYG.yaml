@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/73
+seq: 73
+front:
+  text: 欽定四庫全書大清律例卷二十九目錄
+  hash: sha256:8f2e384466356de8e70eabe6315363dbb77a6f9d6254e2df9a44f61f2097657d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_073-1a, image: WYG0673/WYG0673-0027c.png}
+body:
+  text: 刑律罵詈罵人罵制使及本管長官佐職統屬罵長官奴婢罵家長罵尊長罵祖父母父母妻妾罵夫期親尊長妻妾罵故夫父母
+  hash: sha256:6b8e67fc2bfee15f1bbd47db90ebe82a0cb389aaa6e64c30c792b2ebe87dde67
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十九目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_073.txt
+hash: sha256:960f84d3e1952045e9bbc22fdb9783bff56f448585b116806013c71eda6a3ca1

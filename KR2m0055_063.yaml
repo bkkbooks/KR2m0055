@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/63
+seq: 63
+front:
+  text: 欽定四庫全書大清律例卷二十四目録
+  hash: sha256:a767db866377a816ad937068d3071274891fccdac07e9ce7177b5925a9c9a94c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_063-1a, image: WYG0672/WYG0672-0727a.png}
+body:
+  text: 刑律賊盜中劫囚白晝搶奪竊盜盜馬牛畜産盜田野穀麥
+  hash: sha256:6f345a8830e2ffb4513d7f7547cd58110c1fb3f2a72170ce248aa109bf256ee5
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷二十四目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_063.txt
+hash: sha256:50371d215f81b2e109b5e6207e1ffda1b2fa5ef3f15f96273a31e4dfbdf521b9

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/104
+seq: 104
+front:
+  text: 欽定四庫全書大清律例卷四十四目録
+  hash: sha256:a7cf2f6e64bc941ee3c9491b9cf686acb53c0d0e47114ccd65b102d0cf0ab3e7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_104-1a, image: WYG0673/WYG0673-0327c.png}
+body:
+  text: 總類發配七十三條
+  hash: sha256:1171f316d97912c47da0db034b7efff42c4c4e43bd470b0591cb32f4ff8882ab
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十四目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_104.txt
+hash: sha256:90fe114efe59f032886e71e0eb3e5b28843b2f30fe522e9c0cee2746c46cc2dd

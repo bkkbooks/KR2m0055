@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/markers/93
+seq: 93
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0055_WYG_093-1a01}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR2m0055_WYG_093-1a02}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0055_WYG_093-1a03}
+  - {type: indent, offset: 0, content: 　, id: KR2m0055_WYG_093-bkkind1}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR2m0055_WYG_093-1a04}
+  - {type: indent, offset: 2, content: 　　, id: KR2m0055_WYG_093-bkkind2}
+  - {type: 'kr:newline', offset: 4, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl3}
+  - {type: line-break, offset: 4, content: '', id: KR2m0055_WYG_093-1a05}
+  - {type: indent, offset: 4, content: 　　　, id: KR2m0055_WYG_093-bkkind3}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl4}
+  - {type: line-break, offset: 8, content: '', id: KR2m0055_WYG_093-1a06}
+  - {type: indent, offset: 8, content: 　　　, id: KR2m0055_WYG_093-bkkind4}
+  - {type: 'kr:newline', offset: 14, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl5}
+  - {type: line-break, offset: 14, content: '', id: KR2m0055_WYG_093-1a07}
+  - {type: indent, offset: 14, content: 　　　, id: KR2m0055_WYG_093-bkkind5}
+  - {type: 'kr:newline', offset: 18, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl6}
+  - {type: line-break, offset: 18, content: '', id: KR2m0055_WYG_093-1a08}
+  - {type: indent, offset: 18, content: 　　　, id: KR2m0055_WYG_093-bkkind6}
+  - {type: 'kr:newline', offset: 24, content: '
+
+      ', id: KR2m0055_WYG_093-bkkkrnewl7}
+  back: []
+hash: sha256:8f9e09ae3028cc410739a6e691094ed714b2c58559a7becaa72f8588d7f8b48f

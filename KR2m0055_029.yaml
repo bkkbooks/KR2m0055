@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/29
+seq: 29
+front:
+  text: 欽定四庫全書大清律例卷七目録
+  hash: sha256:ecb06ae95d468a6d03c447f24cb419b72e14e7e16a407f69f43b288dc4df0028
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_029-1a, image: WYG0672/WYG0672-0507a.png}
+body:
+  text: 吏律公式講讀律令制書有違棄毁制書印信上書奏事犯諱事應奏不奏出使不復命官文書稽程照刷文卷磨勘卷宗同僚代判署文案增減官文書封掌印信漏使印信擅用調兵印信
+  hash: sha256:e614a5fd69ad76f93836a4b22c54cea31dc207acd7163864c2236b105004f807
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷七目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_029.txt
+hash: sha256:24cca3df2d54cba58f63c20fc5e7ba0fa1ada263b9df998690282eaba19f41c3

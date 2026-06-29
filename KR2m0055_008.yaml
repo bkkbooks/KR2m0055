@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刑部尚書臣圖納等謹題為請㫖事據廣西道試監察御史盛符升條奏一疏經九卿㑹議應如所奏將見行則例載入大清律條例內均為畫一等因具覆奉㫖依議欽遵在案今將律文則例刪定改正彚為一書體皇上好生之德垂萬世不易之規相應遣官監修所有堂官職名開列具奏伏候聖裁謹題請㫖康熙二十八年九月三十日題十月初八日奉㫖圖納蘇赫張玉書杜臻西安郭世隆顧汧著為總裁官
+  hash: sha256:8344899c27300772bcffc75702992f7e51c8014b732cfc0147e4cb6bd6f34b02
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_008-1a, image: WYG0672/WYG0672-0384c.png}
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 奏摺四
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_008.txt
+hash: sha256:353a8d180397c809a1dc69caf7afc9858454b84a9944dd199b1d947f818e24d4

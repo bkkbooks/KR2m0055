@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/96
+seq: 96
+front:
+  text: 欽定四庫全書大清律例卷四十目録
+  hash: sha256:9312015c7ceae958f6e51ab2327f4ce6fa4d2bb2692fea18e3d951a3e8b4c550
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_096-1a, image: WYG0673/WYG0673-0183c.png}
+body:
+  text: 總類笞一十三十一條笞二十四十七條笞三十四十一條笞四十一百六條笞五十一百十二條
+  hash: sha256:dcbcbb5e96a1dae85d3cc5930b64da06e086126eb560e922737ac4ae89002f32
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷四十目録
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_096.txt
+hash: sha256:248c53cb585c46b9f99131ecc0d3f0bb2ee93810402b1e478d7c2149165e859c

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/89
+seq: 89
+front:
+  text: 欽定四庫全書大清律例卷三十七目録
+  hash: sha256:c5b0aad990bbab96212fdf42bd537fd3c529b7a0ab8e1fc55fa66819e97624fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_089-1a, image: WYG0673/WYG0673-0139a.png}
+body:
+  text: 刑律斷獄下官司出入人罪辨明寃枉有司決囚等第檢驗尸傷不以實決罰不如法長官使人有犯斷罪引律令獄囚取服辨赦前斷罪不當聞有恩赦而故犯徒囚不應役婦人犯罪死囚覆奏待報斷罪不當吏典代寫招草
+  hash: sha256:5425c9dd18cb9fc604c78d84d57331c1fbb6cf04ed8e94fa516e96de723111e8
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷三十七目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_089.txt
+hash: sha256:f6e202a064be16f9671904a54e39de45932e36ef51651d9695f51baa94ef242b

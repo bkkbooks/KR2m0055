@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書史部十三大清律例總目政書類五法令之屬
+  hash: sha256:3fe7fc6db593370463f682ee2fe3b7b164c1fe3f8e76457731a834c875f0c918
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_019-1a, image: WYG0672/WYG0672-0403c.png}
+body:
+  text: 卷一律目附例分八字之義卷二諸圖卷三服制卷四名例律上卷五名例律下卷六吏律職制卷七吏律公式卷八戶律戶役卷九戶律田宅卷十戶律婚姻卷十一戶律倉庫上卷十二戶律倉庫下卷十三戶律課程卷十四戶律錢債卷十五戶律市㕓卷十六禮律祭祀卷十七禮律儀制卷十八兵律宮衛卷十九兵律軍政卷二十兵律關津卷二十一兵律廄牧卷二十二兵律郵驛卷二十三刑律賊盜上卷二十四刑律賊盜中卷二十五刑律賊盜下卷二十六刑律人命卷二十七刑律鬭毆上卷二十八刑律鬭毆下卷二十九刑律罵詈卷三十刑律訴訟卷三十一刑律受贓卷三十二刑律詐僞卷三十三刑律犯姦卷三十四刑律雜犯卷三十五刑律捕亡卷三十六刑律斷獄上卷三十七刑律斷獄下卷三十八工律營造卷三十九工律河防卷四十總類卷四十一總類卷四十二總類卷四十三總類卷四十四總類卷四十五總類卷四十六總類卷四十七比引律條
+  hash: sha256:9d43d15a8800e360513d4657381ec9c7d114c69470cea8ebd0115e5c27598a3f
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 總目
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_019.txt
+hash: sha256:184409c12d630a36bdd8a588873b1ff6d3a7abd7a18c9630e9ab751650fdf0c6

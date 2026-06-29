@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/3
+seq: 3
+front:
+  text: 世宗憲皇帝上諭
+  hash: sha256:dc665cb312ea58678a7c39cbe08903358b04c5ef34d7d89b11fdea5476c94997
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_003-1a, image: WYG0672/WYG0672-0379c.png}
+body:
+  text: 雍正三年五月二十七日奉上諭朕自臨御以來欽恤刑獄每遇法司奏讞必再三覆核惟恐稍有未協又念律例一書為用刑之本其中條例繁多若不校訂畫一有司援引斷獄得以意為輕重貽誤非小特命纂修館刻期告竣今據將所纂全稿進呈朕逐一詳覽其有應行駁正者已一一批示但明刑所以弼教關係甚大著九卿㑹同細看務期斟酌盡善以副朕慎重刑名之意特諭
+  hash: sha256:c1427f4aa1e221c8e729cc37e7b46430e38a8454a6c3261c32ae319feebde481
+metadata:
+  title: 大清律例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 世宗憲皇帝上諭
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_003.txt
+hash: sha256:85537580e128435b4c7f9eed4cc70cd3ca9d8379de323436a064db8fb7d689d8

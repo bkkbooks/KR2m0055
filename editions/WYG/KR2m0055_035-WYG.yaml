@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0055/WYG/v1/juan/35
+seq: 35
+front:
+  text: 欽定四庫全書大清律例卷十目錄
+  hash: sha256:22c4a9f6ac4f5cc080d3d51fbc7ede1319a2c06d26b8a9b1ec350da9fc808879
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_035-1a, image: WYG0672/WYG0672-0550a.png}
+body:
+  text: 户律婚姻男女婚姻典雇妻女妻妾失序逐壻嫁女居喪嫁娶父母囚禁嫁娶同姓為婚尊卑為婚娶親屬妻妾娶部民婦女為妻妾娶逃走婦女强占良家妻女娶樂人為妻妾僧道娶妻良賤為婚姻出妻嫁娶違律主婚媒人罪
+  hash: sha256:44a662960e4d247d6ea7fcfcee45894851f6881adddabe86ff98204b3dac25e0
+metadata:
+  title: 大清律例
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:53:20.638351'
+  juan_title: 卷十目錄
+  source:
+    repository: kanripo
+    path: KR2m0055/KR2m0055_035.txt
+hash: sha256:9c09c207889e379cb431b71bc10799448effc2a39b4054060edc99de274a452b
