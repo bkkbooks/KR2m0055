@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_043-1a, image: WYG0672/WYG0672-0607a.png}
 body:
-  text: 戶律錢債違禁取利費用受寄財産得遺失物
-  hash: sha256:dc0155b80d6e279d8bd935dc5e0d66963ece3e91b694edd6439d5259ade3d27c
+  text: 戸律錢債違禁取利費用受寄財産得遺失物
+  hash: sha256:f57164b84f4e6513fa0cacc91ea9202ce976d1c033ab2795effe27d286c3cffd
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_043.txt
-hash: sha256:6f17a1013ddcb74571d89bda9feebda33a375932e09706765962a7f3435ee7c8
+hash: sha256:299714b876fca4b16c3bc81d1ed4cd7ff006d57c2e0112e431ecb9f4c26657df

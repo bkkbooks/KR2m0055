@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/37
 seq: 37
 front:
-  text: 欽定四庫全書大清律例卷十一目録
-  hash: sha256:5c9c29a6128213b581d1c06ec6e5a27593d1fb22e6216f2179226c7cb01f0dcd
+  text: 欽定四庫全書大清律例卷十一目錄
+  hash: sha256:fce12a9b05b364f3c1fc7ca71a0b2385849ca7c911fd986efebefd9f8c4f12f2
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_037-1a, image: WYG0672/WYG0672-0564a.png}
 body:
-  text: 戶律倉庫上錢法收糧違限多收稅糧斛面隱匿費用稅糧課物攬納稅糧虛出通關硃鈔附餘錢糧私下補數私借錢糧私借官物
-  hash: sha256:c0cf7e10afd5f3737c76ca182dd83f8f9c001b8d7757833ed52c110b6babdd6e
+  text: 戸律倉庫上錢法收糧違限多收税糧斛面隠匿費用税糧課物攬納税糧虛出通關硃鈔附餘錢糧私下補數私借錢糧私借官物
+  hash: sha256:40617c86d8ed919abc110a5619856a6a77c1a72707bf7a289598becc55536ca1
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_037.txt
-hash: sha256:71b20b8de304f55fd013df9c1b7503320965030bb4810573a2cbb750d36e2881
+hash: sha256:e9119a7439a31dfe6206fec6b3a1b8e5b776cf4ca2f767749ac2402d1bb7e39f

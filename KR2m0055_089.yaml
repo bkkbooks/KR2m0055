@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_089-1a, image: WYG0673/WYG0673-0139a.png}
 body:
-  text: 刑律斷獄下官司出入人罪辨明寃枉有司決囚等第檢驗尸傷不以實決罰不如法長官使人有犯斷罪引律令獄囚取服辨赦前斷罪不當聞有恩赦而故犯徒囚不應役婦人犯罪死囚覆奏待報斷罪不當吏典代寫招草
-  hash: sha256:5425c9dd18cb9fc604c78d84d57331c1fbb6cf04ed8e94fa516e96de723111e8
+  text: 刑律斷獄下官司出入人罪辯明寃枉有司決囚等第檢驗屍傷不以實決罸不如法長官使人有犯斷罪引律令獄囚取服辯赦前斷罪不當聞有恩赦而故犯徒囚不應役婦人犯罪死囚覆奏待報斷罪不當吏典代冩招草
+  hash: sha256:a4b99c01223f6d795ecb7dbe0478215e6403d761bca0fa44a577169d9444a5bb
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_089.txt
-hash: sha256:f6e202a064be16f9671904a54e39de45932e36ef51651d9695f51baa94ef242b
+hash: sha256:17b2adae6c9b31cb22fbb95069be31137394f1b47072cbcc9fe14f9270c02f40

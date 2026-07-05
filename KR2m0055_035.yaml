@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/35
 seq: 35
 front:
-  text: 欽定四庫全書大清律例卷十目録
-  hash: sha256:8a8db9d034065bc5996518464c9433f1fdb7f05874eab340813c06a3ab7fbef8
+  text: 欽定四庫全書大清律例卷十目錄
+  hash: sha256:22c4a9f6ac4f5cc080d3d51fbc7ede1319a2c06d26b8a9b1ec350da9fc808879
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_035-1a, image: WYG0672/WYG0672-0550a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_035.txt
-hash: sha256:81936a476670bc176e49e38b70c801c0ecbdc0c58b7853c7fe2eef15123c3078
+hash: sha256:3456987f30307104aa65c42948412850d7f2c5501e2ce85f60668f9d4709b8b0

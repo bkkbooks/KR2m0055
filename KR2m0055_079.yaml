@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_079-1a, image: WYG0673/WYG0673-0064a.png}
 body:
-  text: 刑律詐僞詐為制書詐傳詔㫖對制上書詐不以實僞造印信時憲書等私鑄銅錢詐假官詐稱內使等官近侍詐稱私行詐為瑞應詐病死傷避事詐教誘人犯法
-  hash: sha256:b30abd98effeab14893be4413d74e673221844909a13f51729763dad365fe9d7
+  text: 刑律詐偽詐為制書詐傳詔㫖對制上書詐不以實偽造印信時憲書等私鑄銅錢詐假官詐稱内使等官近侍詐稱私行詐為瑞應詐病死傷避事詐教誘人犯法
+  hash: sha256:f6407c9113991054c4cced48e97f7f3ce84d582904d8e1d6669de0403b3b5235
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_079.txt
-hash: sha256:a57c933731dffabb9f8e0244d8681ef1e24aada767faadddda5f33aa9d0c9251
+hash: sha256:5141aeec5d1e8ceb6d013b6b04c3e640951ab0f1347aa98449e699247845e70d

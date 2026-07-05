@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_039-1a, image: WYG0672/WYG0672-0576c.png}
 body:
-  text: 戶律倉庫下那移出納庫稱雇役侵欺冒支官糧錢糧互相覺察倉庫不覺被盜守支錢糧及擅開官封出納官物有違收支留難起解金銀足色損壞倉庫財物轉解官物擬斷贓罰不當守掌在官財物隱瞞入官家産
-  hash: sha256:e45b06472bdf674083095dbea270cfa08efe50d8f5d0c4c804c5ef8f30681d40
+  text: 戸律倉庫下那移出納庫秤雇役侵欺冒支官糧錢糧互相覺察倉庫不覺被盜守支錢糧及擅開官封出納官物有違收支留難起解金銀足色損壊倉庫財物轉解官物擬斷贓罰不當守掌在官財物隱瞞入官家産
+  hash: sha256:42c16c4ce9a4ca82b093b3265ba1cf6c200beefbafab9119b543cff3ded7efcc
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_039.txt
-hash: sha256:2babc7a366a410294ffa6e919bf786f6b6c16f7c2236a18b74cd798ab1f30bcb
+hash: sha256:ae050170b6c6a3fcee39c3792a79384412e45baa594df470f1f8a076ee4388a7

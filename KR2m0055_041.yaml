@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_041-1a, image: WYG0672/WYG0672-0594c.png}
 body:
-  text: 戶律課程鹽法監臨勢要中鹽阻壞鹽法私茶私礬匿稅舶商匿貨人戶虧兌課程
-  hash: sha256:68de69c1e0bfa11607dfdec1be5a31998b522c95e5af179c77023bac5a66d443
+  text: 戸律課程鹽法監臨勢要中鹽阻壊鹽法私茶私礬匿税舶商匿貨人戸虧兌課程
+  hash: sha256:96ac753c39d3944689d6183e131e4c1a2036efef79f85c5f44bb7207e72b27cd
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_041.txt
-hash: sha256:10d6f73553c48e0cba79f578b68ddba93f0fc868fb028b218cd4100e045c74d7
+hash: sha256:3ce8790042451c97dc1593c10ae96dc96c409db218fc76203c7f7d81c43431ed

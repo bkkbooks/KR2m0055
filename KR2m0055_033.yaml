@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_033-1a, image: WYG0672/WYG0672-0537a.png}
 body:
-  text: 戶律田宅欺隱田糧檢踏災傷田糧功臣田土盜賣田宅任所置買田宅典買田宅盜耕種官民田荒蕪田地棄毁器物稼穡等擅食田園瓜果私借官車船
-  hash: sha256:087d32dd42d51762f1bbd9703e45907d53b6e69921a4439e0d844e6ee0788724
+  text: 戸律田宅欺隱田糧檢踏災傷田糧功臣田土盜賣田宅任所置買田宅典買田宅盜耕種官民田荒蕪田地棄毁器物稼穡等擅食田園𤓰果私借官車船
+  hash: sha256:c3d1193fa3564d89a38146acf0fc5bbef4e1b9bf4d84dbdce43b04c9e9210708
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_033.txt
-hash: sha256:5cb235caef02b507e0305669fb0a8ca2733f5888098d52069a50b44d2c72caf3
+hash: sha256:5d50ba551edf0fbf93f678113c284ae958f5513029f260b4c0597032ad1cdd39

@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/77
 seq: 77
 front:
-  text: 欽定四庫全書大清律例卷三十一目録
-  hash: sha256:134ef1af7e0cec654e2c2dcc58258e5941e8ca15dd8037b3f8ed254cdef3ff79
+  text: 欽定四庫全書大清律例卷三十一目錄
+  hash: sha256:a79fbc9a1d17fcff5b2e82772a01ee4b7d3f10736de87ecac2309ac3aa1c6efa
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_077-1a, image: WYG0673/WYG0673-0052a.png}
 body:
-  text: 刑律受贓官吏受財坐贓致罪事後受財官吏聽許財物有事以財請求在官求索借貸人財物家人求索風憲官吏犯贓因公科斂尅留盜贓私受公侯財物
-  hash: sha256:4f13247494cf115c17421b2d2ba553b8d89fb9bf4d22afb1c045333844634e6a
+  text: 刑律受贓官吏受財坐贓致罪事後受財官吏聴許財物有事以財請求在官求索借貸人財物家人求索風憲官吏犯贓因公科歛尅留盜贓私受公侯財物
+  hash: sha256:d2e8d0577c60eea6cc8106300dfd2489bdf5514c088f1a00dc4d027d16b55c81
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_077.txt
-hash: sha256:3f7ab59965f8a2c1c5639dbd23d6f404988bc089fa5d2334ea8b90291597569e
+hash: sha256:72e4322279ac9c352a75c048ef18b4e8f474e569023e165d5debef9e3b71d653

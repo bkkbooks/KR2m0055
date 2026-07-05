@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_029-1a, image: WYG0672/WYG0672-0507a.png}
 body:
-  text: 吏律公式講讀律令制書有違棄毁制書印信上書奏事犯諱事應奏不奏出使不復命官文書稽程照刷文卷磨勘卷宗同僚代判署文案增減官文書封掌印信漏使印信擅用調兵印信
-  hash: sha256:e614a5fd69ad76f93836a4b22c54cea31dc207acd7163864c2236b105004f807
+  text: 吏律公式講讀律令制書有違棄毁制書印信上書奏事犯諱事應奏不奏出使不復命官文書稽程照刷文卷磨勘卷宗同僚代判署文案増減官文書封掌印信漏使印信擅用調兵印信
+  hash: sha256:f68ce2787fb10d0e11109e249911f74a79f0ca6480ce08f91eabb906c270d93d
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_029.txt
-hash: sha256:24cca3df2d54cba58f63c20fc5e7ba0fa1ada263b9df998690282eaba19f41c3
+hash: sha256:5fd81c481877b1cf483360bdecff4f8c3e7d8be13819cbe192bacb8a5e2cd7a1
