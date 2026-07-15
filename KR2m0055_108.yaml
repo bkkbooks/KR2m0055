@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/108
 seq: 108
 front:
-  text: 欽定四庫全書大清律例卷四十六目錄
-  hash: sha256:7788e328f8da1de3fcec948574b5be61869ce5454ef4f3b4a3a6a12f7ba282ba
+  text: 欽定四庫全書大清律例卷四十六目録
+  hash: sha256:36e1e48508afc3c0bcb02e493a20ed40a080eb2b789fb0b3ea52ad05e131ef62
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_108-1a, image: WYG0673/WYG0673-0358a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_108.txt
-hash: sha256:6cf8221edfba353a4efa59117275818dd609105b9cab72d4dfc032482b1c94bb
+hash: sha256:706a6aa5b21bcefed949769d4cc5f42b362d159c4251c9b7b57f12be55ae9db1

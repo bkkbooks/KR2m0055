@@ -10,6 +10,7 @@ markers:
 
       ', id: KR2m0055_krp_075-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR2m0055_WYG_075-1a02}
+  - {type: substitution, offset: 14, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -41,6 +42,8 @@ markers:
       ', id: KR2m0055_krp_075-bkkkrnewl6}
   - {type: line-break, offset: 19, content: '', id: KR2m0055_WYG_075-1a08}
   - {type: indent, offset: 19, content: 　　　, id: KR2m0055_krp_075-bkkind6}
+  - {type: substitution, offset: 19, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20717}}
+  - {type: substitution, offset: 21, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: 'kr:newline', offset: 23, content: '
 
       ', id: KR2m0055_krp_075-bkkkrnewl7}
@@ -75,6 +78,7 @@ markers:
       ', id: KR2m0055_krp_075-bkkkrnewl13}
   - {type: line-break, offset: 48, content: '', id: KR2m0055_WYG_075-1b06}
   - {type: indent, offset: 48, content: 　　　, id: KR2m0055_krp_075-bkkind12}
+  - {type: substitution, offset: 51, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 54, content: '
 
       ', id: KR2m0055_krp_075-bkkkrnewl14}
@@ -89,4 +93,4 @@ markers:
 
       ', id: KR2m0055_krp_075-bkkkrnewl16}
   back: []
-hash: sha256:a414ed2ebf1c4ae8f8dc24dfa0ca255ce9b1be9d33f92b895cff8e07cbb1556f
+hash: sha256:2cabed9a1f72aa5a7803de8285297a31be5376f27e9383af2cdd7392eddaf679

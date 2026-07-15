@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/51
 seq: 51
 front:
-  text: 欽定四庫全書大清律例卷十八目錄
-  hash: sha256:39c5e9963fa955111e8356bdd2a952480a572851d2ad6eca3598c224dca792ff
+  text: 欽定四庫全書大清律例卷十八目録
+  hash: sha256:e57053b145dd9ba26bc802509f14232755230d59fd6ce22c22870ef22f4dfedc
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_051-1a, image: WYG0672/WYG0672-0641a.png}
 body:
-  text: 兵律宮衛太廟門擅入宮殿門擅入宿衛守衛人私自代替從駕稽違直行御道内府工作人匠替役宫殿造作罷不出輒出入宮殿門闗防内使出入向宮殿射箭宿衛人兵仗禁經斷人充宿衛衝突儀仗行宮營門越城門禁鎻鑰
-  hash: sha256:75f95d25b92535137a23560b4b5f6f90d7a226d8c3459c2f77ae25697ecdb559
+  text: 兵律宮衛太廟門擅入宮殿門擅入宿衛守衛人私自代替從駕稽違直行御道內府工作人匠替役宫殿造作罷不出輒出入宮殿門關防內使出入向宮殿射箭宿衛人兵仗禁經斷人充宿衛衝突儀仗行宮營門越城門禁鎖鑰
+  hash: sha256:b95ca9ed99c7c0d84bf0a2f1da553ee0eceb027b65fb2a88129b96da7ea6ef00
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_051.txt
-hash: sha256:b4b674d4c0b267a985d9668938a1719ed39ccab9b0dfd1cebb84d582192b3c57
+hash: sha256:c23fb9e26e39c77079e71529e3e0c85be7e05c38fff70e22232fa794b39bc568

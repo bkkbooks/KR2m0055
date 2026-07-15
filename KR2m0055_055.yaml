@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_055-1a, image: WYG0672/WYG0672-0669c.png}
 body:
-  text: 兵律闗津私越冒度闗津私役弓兵詐冒給路引闗津留難遞送逃軍妻女出城盤詰姦細私出外境及違禁下海
-  hash: sha256:ee1e7d9a0d6e2c8a051229c17b20e2cc6b41762f3daafc9da8a4f2dd84afbe3a
+  text: 兵律關津私越冒度關津私役弓兵詐冒給路引關津留難遞送逃軍妻女出城盤詰姦細私出外境及違禁下海
+  hash: sha256:bec1b0de2162d2d35b1c5eb73bf803ee925e53058b4da22fd1e18f3fff0c2287
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_055.txt
-hash: sha256:1e44104cecc50a29488b1bcf889cb1de48d7baef7ec5399a72b564a52bad4c8f
+hash: sha256:100b730b1b516edcb32572f15c650c8b82a6e7b616281d4f4761d634f2cdc127

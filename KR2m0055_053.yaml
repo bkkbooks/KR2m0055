@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/53
 seq: 53
 front:
-  text: 欽定四庫全書大清律例卷十九目錄
-  hash: sha256:9ce5f6013012ffebcb8a5228e80a38277a7158f0e94d797fde9ea861c9a1ba15
+  text: 欽定四庫全書大清律例卷十九目録
+  hash: sha256:0dc3baaa395b642c22bb6dccf321ba11cfb9a2a13f70ee3f5de44a0ae4d4e442
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_053-1a, image: WYG0672/WYG0672-0651a.png}
 body:
-  text: 兵律軍政擅調官軍申報軍務飛報軍情漏泄軍情大事邊境申索軍需失誤軍事從征違期軍人替役主將不固守縱軍擄掠不操練軍士激變良民私賣戰馬私賣軍器毁棄軍器私藏應禁軍器縱放軍人歇役公侯私役官軍從征守禦官軍逃優恤軍屬夜禁
-  hash: sha256:621cec07e1a67c53db765d410b971dbe56a6140f5044f81af0eae5ec5f9b112c
+  text: 兵律軍政擅調官軍申報軍務飛報軍情漏泄軍情大事邊境申索軍需失誤軍事從征違期軍人替役主將不固守縱軍虜掠不操練軍士激變良民私賣戰馬私賣軍器毁棄軍器私藏應禁軍器縱放軍人歇役公侯私役官軍從征守禦官軍逃優恤軍屬夜禁
+  hash: sha256:4ab0e5942f1ea4e4407ceaf6f6c3fd94480e94e75bdbe5d0912f3ee4acee57b2
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_053.txt
-hash: sha256:729108f6da4df2aa0e892e2d928568de160a62ca6a39c3842c7674e84f797c05
+hash: sha256:381ed07c7fb91622f821f647c7a9a9f51d83047eddcb504758590f81d1b14f4b

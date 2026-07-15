@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/85
 seq: 85
 front:
-  text: 欽定四庫全書大清律例卷三十五目錄
-  hash: sha256:8480f584dba095204e1df6664e12b177ab17573ee78edee9ac8cfa319f98021d
+  text: 欽定四庫全書大清律例卷三十五目録
+  hash: sha256:f5f8e5929edbbb0b654b0b24c0108917fbd747ff004d572cff1e12b6e14f94ec
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_085-1a, image: WYG0673/WYG0673-0096c.png}
 body:
-  text: 刑律捕亡應捕人追捕罪人罪人拒捕獄囚脱監及反獄在逃徒流人逃稽留囚徒主守不覺失囚知情藏匿罪人盗賊捕限
-  hash: sha256:51a188adb7eeae0fb2a34947b01b4a328e85ce07e82a3b9830c1f3df694debf7
+  text: 刑律捕亡應捕人追捕罪人罪人拒捕獄囚脫監及反獄在逃徒流人逃稽留囚徒主守不覺失囚知情藏匿罪人盜賊捕限
+  hash: sha256:65d85adf21d44fc463dd108f042daba1abf6a74ce1a63a89d35f941256dee421
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_085.txt
-hash: sha256:81c7e24bc1ce069c3be79f2a57926b3db5c4ad4ea3a1192145c506f60826357f
+hash: sha256:2abd1f0f3420f782d76ba63f9695c83ef9e4dc0f6295d2cb428d6a28850214cb

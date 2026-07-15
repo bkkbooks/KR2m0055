@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/23
 seq: 23
 front:
-  text: 欽定四庫全書大清律例卷四目錄
-  hash: sha256:c27a7095a47dc72eb37a0a67eb3f3124b204073cb9684e303b35d971c9165434
+  text: 欽定四庫全書大清律例卷四目録
+  hash: sha256:1760e18a3f48e0b57f9bf9fbd62c3d5fee89864147d7f8f245097bca4126c029
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_023-1a, image: WYG0672/WYG0672-0434a.png}
 body:
-  text: 名例律上五刑十惡八議應議者犯罪應議者之父祖有犯職官有犯文武官犯公罪文武官犯私罪犯罪免發遣軍籍有犯犯罪得累減以理去官無官犯罪除名當差流囚家屬常赦所不原流犯在道㑹赦犯罪存留養親天文生有犯工樂户及婦人犯罪徒流人又犯罪
-  hash: sha256:f3b0908c44bc25cabc647d207a1ce89c6e2371310b85a09dbcc28dcf6d6c48c3
+  text: 名例律上五刑十惡八議應議者犯罪應議者之父祖有犯職官有犯文武官犯公罪文武官犯私罪犯罪免發遣軍籍有犯犯罪得纍減以理去官無官犯罪除名當差流囚家屬常赦所不原流犯在道會赦犯罪存留養親天文生有犯工樂户及婦人犯罪徒流人又犯罪
+  hash: sha256:cfdb17a7d756243f14ec3c10b333a8e3cc567a4c2ce8729b3deb1155de61b2a9
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_023.txt
-hash: sha256:a242594b10307fa0b5ae3dcfec868db7ceead562f9000de87d26da0cf02b1aa2
+hash: sha256:cdd0a8e99f892e5d9beed525c29c747800cf4c08cdfe0efa23115c134009b122

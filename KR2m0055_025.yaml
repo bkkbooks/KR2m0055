@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/25
 seq: 25
 front:
-  text: 欽定四庫全書大清律例卷五目錄
-  hash: sha256:2bcfc8fb19eb6cc1331b0f596084c07ea45d9c60ef24138281bcbbc0efe0d2b6
+  text: 欽定四庫全書大清律例卷五目録
+  hash: sha256:51660156557bb536c344d5b1c79129013dd8c57f789174d4483433edef74ef3b
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_025-1a, image: WYG0672/WYG0672-0460a.png}
 body:
-  text: 名例律下老小廢疾收贖犯罪時未老疾給没贓物犯罪自首二罪俱發以重論犯罪共逃同僚犯公罪公事失錯共犯罪分首從犯罪事發在逃親屬相為容隠處决叛軍化外人有犯本條别有罪名加減罪例稱乘輿車駕稱期親祖父母稱與同罪稱監臨主守稱日者以百刻稱道士女冠斷罪依新頒律斷罪無正條徒流遷徙地方充軍地方
-  hash: sha256:0d5dce076f4c644d923629df69b7648da29ed8f77b481c605f9cc46019216227
+  text: 名例律下老小廢疾收贖犯罪時未老疾給沒贓物犯罪自首二罪俱發以重論犯罪共逃同僚犯公罪公事失錯共犯罪分首從犯罪事發在逃親屬相為容隱處決叛軍化外人有犯本條别有罪名加減罪例稱乘輿車駕稱期親祖父母稱與同罪稱監臨主守稱日者以百刻稱道士女冠斷罪依新頒律斷罪無正條徒流遷徙地方充軍地方
+  hash: sha256:9a999332ce46819633bcb86e37b3a65bca9bd914cd378cf6edaa9fa694c290b5
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_025.txt
-hash: sha256:c3f6379d0c77c6187239597c3d53724b138d425b03f69ca5bd5c721d515e4af9
+hash: sha256:2be9e02e89c2cc9f52e48be12ab134b329f68e1e33c9cfe1d8b4871b38551899

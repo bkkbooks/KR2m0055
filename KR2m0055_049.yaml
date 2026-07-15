@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/49
 seq: 49
 front:
-  text: 欽定四庫全書大清律例卷十七目錄
-  hash: sha256:317a76d09430b8ec7982311ba6189265771e8766c08c99f17fd2bed59ed6dbd6
+  text: 欽定四庫全書大清律例卷十七目録
+  hash: sha256:4b8ad5a3407065f6f91b33328f319563142c1a8ddb9dac43a9995f49fa3424ef
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_049-1a, image: WYG0672/WYG0672-0622c.png}
 body:
-  text: 禮律儀制合和御藥乗輿服御物收藏禁書御賜衣物失誤朝賀失儀奏對失序朝見留難上書陳言見任官輙自立碑禁止迎送公差人員欺陵長官服舍違式僧道拜父母失占天象術士妄言禍福匿父母夫喪棄親之任喪葬鄉飲酒禮
-  hash: sha256:b915035ca4c2372cddb057866f7c96eceac071512bb9b9617cb8e8726d3ce07a
+  text: 禮律儀制合和御藥乘輿服御物收藏禁書御賜衣物失誤朝賀失儀奏對失序朝見留難上書陳言見任官輒自立碑禁止迎送公差人員欺陵長官服舍違式僧道拜父母失占天象術士妄言禍福匿父母夫喪棄親之任喪葬鄉飲酒禮
+  hash: sha256:cdc775a0b5a512af6ecf00725d13e02b90628657b5dc071f35d326dc86c435d1
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_049.txt
-hash: sha256:3edee02a9851bc38e93e2219fd967ece46a8bc510d8f84567d220400610726ab
+hash: sha256:b473b5580e59767410c1525dd8e019e4b4a663a80cdb01887c6f2d9c239c320e

@@ -10,6 +10,7 @@ markers:
 
       ', id: KR2m0055_krp_059-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR2m0055_WYG_059-1a02}
+  - {type: substitution, offset: 15, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -113,4 +114,4 @@ markers:
 
       ', id: KR2m0055_krp_059-bkkkrnewl21}
   back: []
-hash: sha256:0bd561f7e258f95ffd20c8db3b784c9ab8e110f79442b1e2aded16d645dff37a
+hash: sha256:16c6fc22983e157cf89f0acc4035275f4d3d81ea69b34d7a2cdf204586996f51

@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_091-1a, image: WYG0673/WYG0673-0167c.png}
 body:
-  text: 工律營造擅造作虚費工力採取不堪用造作不如法冐破物料帶造段疋織造違禁龍鳳文段疋造作過限修理倉庫有司官吏不住公廨
-  hash: sha256:4734f7cc8c40a2fdbb6a467d7580a230caf1042fc6ddc744304f19eabffbcad1
+  text: 工律營造擅造作虛費工力採取不堪用造作不如法冒破物料帶造段匹織造違禁龍鳳文段匹造作過限修理倉庫有司官吏不住公廨
+  hash: sha256:52eeb8142a2a73be431bdee8e0efc41ce7cd57ddd7e48e2bea25aa19317b39af
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_091.txt
-hash: sha256:7e3ae10468c21a607acf5b2b5485a0ea73b4f16d5c6faad6e65ac9334c5a86ad
+hash: sha256:b047fdc9e2dcf884e204b77422ae03d2618a25d448bf8e1222559046c5ff5c45

@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_045-1a, image: WYG0672/WYG0672-0611c.png}
 body:
-  text: 戸律市㕓私充牙行埠頭市司評物價把持行市私造斛斗秤尺器用布絹不如法
-  hash: sha256:6640297214968c329554fba91776aaa207321c7a065b8a83a2feefe676bba7ac
+  text: 戶律市㕓私充牙行埠頭市司評物價把持行市私造斛斗稱尺器用布絹不如法
+  hash: sha256:024922d80c62ee692c34beb2038a365a48c846e917628792d9833d96c8680828
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_045.txt
-hash: sha256:7af3baabaf495fb2cdbed43c48da3d3b551405f634460496c554069136ea0cac
+hash: sha256:565a96ddbe5c641a8ff845a60cccbafbba18d8d3577c0dd696a8168f8912853e

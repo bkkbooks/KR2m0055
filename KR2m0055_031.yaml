@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_031-1a, image: WYG0672/WYG0672-0519a.png}
 body:
-  text: 戸律戸役脱漏戸口人戸以籍為定私剙庵院及私度僧道立嫡子違法收留迷失子女賦役不均丁夫差遣不平隱蔽差役禁革主保里長逃避差役點差獄卒私役部民夫匠别籍異財卑幼私擅用財收養孤老
-  hash: sha256:6187d1da42f8ff6095d16363b20b780e3a182d4814b39f8b7fda0f8d9e318934
+  text: 戶律戶役脫漏戶口人戶以籍為定私創庵院及私度僧道立嫡子違法收留迷失子女賦役不均丁夫差遣不平隱蔽差役禁革主保里長逃避差役點差獄卒私役部民夫匠别籍異財卑幼私擅用財收養孤老
+  hash: sha256:5bf4a115a9cf7c6f1baf35e0584fd1e28705603efc66277ab5773a5d232e8aa5
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_031.txt
-hash: sha256:25ebf57446580f7b1e68a8cd7ab3dce00bcb9049b1c52e2564ed3bd9d49ecb24
+hash: sha256:621c0780eafc920e529a4068a4407d78884e4cb2c818d56acf7cf9bc8544a8d8

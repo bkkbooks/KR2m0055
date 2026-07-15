@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_000-1a, image: WYG0672/WYG0672-0377a.png}
 body:
-  text: 朕惟太祖太宗創業東方民淳法簡大辟之外惟有鞭笞朕仰荷天休撫臨中夏人民既衆情偽多端每遇奏讞輕重出入頗煩擬議律例未定有司無所稟承爰敕法司官廣集廷議詳譯明律叅以國制増損劑量期於平允書成奏進朕再三覆閲仍命内院諸臣校訂妥確乃允刋布名曰大清律集解附例爾内外有司官吏敬此成憲勿得任意低昂務使百官萬民畏名義而重犯法冀幾刑措之風以昭我祖宗好生之徳子孫臣民其世世守之順治三年五月
-  hash: sha256:1f4f1a61674846e3f70340929397a0aed843f08d07a51dded382c5db88abb00f
+  text: 朕惟太祖太宗創業東方民淳法簡大辟之外惟有鞭笞朕仰荷天休撫臨中夏人民既衆情偽多端每遇奏讞輕重出入頗煩擬議律例未定有司無所稟承爰敕法司官廣集廷議詳譯明律參以國制增損劑量期於平允書成奏進朕再三覆閲仍命內院諸臣校訂妥確乃允刋布名曰大清律集解附例爾內外有司官吏敬此成憲勿得任意低昂務使百官萬民畏名義而重犯法冀幾刑措之風以昭我祖宗好生之德子孫臣民其世世守之順治三年五月
+  hash: sha256:3ff99d645e98bfa56c015c4f3cbd41fba1492ff47cb55bbedfaf78840ce83ddc
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_000.txt
-hash: sha256:f6e0ebaec1ef0d977d313defd768c5f7ec08a6562a0dffd34d8db6f19e8e04df
+hash: sha256:134fde06ea7bf069e2cac825b514fa7de963796729a5c68f4f0633c5b303c422

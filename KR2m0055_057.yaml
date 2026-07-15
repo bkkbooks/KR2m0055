@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/57
 seq: 57
 front:
-  text: 欽定四庫全書大清律例卷二十一目錄
-  hash: sha256:ccfd843dc511a9df3671bdbfb5628f03dea12d02dbd9bf3d9f4819a916bfdc00
+  text: 欽定四庫全書大清律例卷二十一目録
+  hash: sha256:9d05c5f59b0a54b4000310b55484b5ebbb740886aafa85c35d46b489b13cb1fa
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_057-1a, image: WYG0672/WYG0672-0685a.png}
 body:
-  text: 兵律廐牧牧養畜産不如法孳生馬匹驗畜産不以實養療瘦病畜産不如法乘官畜脊破領穿官馬不調習宰殺馬牛畜産咬踢人隱匿孳生官畜産私借官畜産公使人等索借馬匹
-  hash: sha256:35359ec329da48fe529f15734cef15eb81dc7fa6b72002e7f00d8c2d60f24009
+  text: 兵律廄牧牧養畜産不如法孳生馬匹驗畜産不以實養療瘦病畜産不如法乘官畜脊破領穿官馬不調習宰殺馬牛畜産咬踢人隱匿孳生官畜産私借官畜産公使人等索借馬匹
+  hash: sha256:c21571b55ff2e85f4434984d8f747915aab520886bc91f1a6c4b1109f41ecbde
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_057.txt
-hash: sha256:568d56e0433cf54ad2b3a2027d6223ccc2b4ae2e22b6f544f089c7185fccf6fb
+hash: sha256:8def53399cdaa84e69be32bd371901e4437cb921ec9ec926f3e96a62cd0fa9cc

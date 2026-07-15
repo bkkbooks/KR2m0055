@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2m0055/krp/v1/juan/27
 seq: 27
 front:
-  text: 欽定四庫全書大清律例卷六目錄
-  hash: sha256:bf4b349a6cb71d8fadb15010629ff0a13a0cc5374db81a7c5930d14cfdd87d9b
+  text: 欽定四庫全書大清律例卷六目録
+  hash: sha256:20412e9e051abd8eddcf536b4f06d6f14dc775a4105b941b0e9571ae262bd661
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0055_WYG_027-1a, image: WYG0672/WYG0672-0492a.png}
 body:
-  text: 吏律職制官員襲廕大臣專擅選官文官不許封公侯濫設官吏信牌貢舉非其人舉用有過官吏擅離職役官員赴任過限無故不朝叅公座擅勾屬員姦黨交結近侍官員上言大臣徳政
-  hash: sha256:ef157b0c39b833830f91d5b1e9f2895c7185e313e08cb46a200e0711dccc761c
+  text: 吏律職制官員襲廕大臣專擅選官文官不許封公侯濫設官吏信牌貢舉非其人舉用有過官吏擅離職役官員赴任過限無故不朝參公座擅勾屬員姦黨交結近侍官員上言大臣德政
+  hash: sha256:912ff7003504fcda218f9e2a34e5ee6b2c80edcefd1a010aabd216d4edbe63cc
 metadata:
   title: 大清律例
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0055/KR2m0055_027.txt
-hash: sha256:b9ac2278cb5579243dc0bfedce02943574725c69a4ead6dd93692d8f66702110
+hash: sha256:8b3c4567d0b72cdc9a3bef18c74d718430fd069dc20425d1558aacff78c509b6
